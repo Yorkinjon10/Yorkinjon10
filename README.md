@@ -1,4 +1,4 @@
-## Amriyev Sarvarjon | Web developer
+## Abdukhalilov Yorkinjon | Web developer
 
 ### Languages and Tools
 
