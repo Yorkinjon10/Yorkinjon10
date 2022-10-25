@@ -25,7 +25,7 @@
 ### Contact With Me
 
 ![emailto:abdukhalilovyorkinjon2025@gmail.com](https://img.shields.io/badge/-abdukhalilovyorkinjon2025@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
-[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/YorkinjonnLog)
+[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/@YorkinjonnLog)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yorkinjon10&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
