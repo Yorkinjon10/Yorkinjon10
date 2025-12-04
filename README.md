@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdukhalilov Yorkinjon  
+# 👋 Hi, I'm Yorkinjon  
 ### Web Developer • Backend Engineer • AI/ML Enthusiast
 
 I build modern backend systems, AI-powered tools, and high-performance applications.  
