@@ -56,15 +56,6 @@ Passionate about **Machine Learning**, **Speech & Vision Models**, **LLMs**, and
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yorkinjon&show_icons=true&theme=dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yorkinjon&layout=compact&theme=dark" />
-</p>
-
----
-
 ## 🔗 Follow Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-082032?style=for-the-badge&logo=Telegram)](https://t.me/)
