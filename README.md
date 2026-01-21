@@ -19,20 +19,6 @@ Passionate about **Machine Learning**, **Speech & Vision Models**, **LLMs**, and
 
 ---
 
-## Follow Me
-
-[![Telegram](https://img.shields.io/badge/Telegram-082032?style=for-the-badge&logo=Telegram)](https://t.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-082032?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/yorkinjon-abdukhalilov)
-
----
-
-## Contact Me
-
-![email](https://img.shields.io/badge/abdukhalilovyorkinjon2025@gmail.com-082032?style=for-the-badge&logo=Gmail)
-[![Telegram](https://img.shields.io/badge/Telegram-082032?style=for-the-badge&logo=Telegram)](https://t.me/YorkinjonnLog)
-
----
-
 ## Fun Fact
 
 I enjoy experimenting with AI models, backend architectures, and weird technical problems — and somehow it never gets boring.
